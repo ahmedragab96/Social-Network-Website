@@ -1,0 +1,20 @@
+body{
+    background: white url("images/3827200.jpg");
+    color: black;
+    font-family: 'Helvetica Neue', "Yu Gothic Light";
+    letter-spacing: 1px;
+    border-bottom: double #555;
+}
+
+.navbar {
+    background-color: bisque;
+}
+
+
+#viber {
+    font-family: Pacifico;
+}
+
+h1 {
+    font-family: Pacifico;
+}
